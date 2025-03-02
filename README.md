@@ -1,6 +1,6 @@
 # ZERODHA-clone
 Zerodha Frontend Clone
-This is a clone of the static website of Zerodha, an online stock trading platform. The clone aims to replicate the design and layout of the original website using HTML and CSS only.
+This is a clone of the static website of Zerodha, an online stock trading platform. The clone aims to replicate the design and layout of the original website using HTML and CSS with Bootstrap.
 
 ## 📸 Screenshots
 ![image](https://github.com/user-attachments/assets/e2e366ff-f743-43b4-a919-66a6f020ddd4)
